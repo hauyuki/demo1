@@ -1,0 +1,10 @@
+D:\codesource\C#\bt_gui1_21520835\bt_gui1_21520835\obj\Debug\bt_gui1_21520835.csproj.AssemblyReference.cache
+D:\codesource\C#\bt_gui1_21520835\bt_gui1_21520835\obj\Debug\bt_gui1_21520835.Form1.resources
+D:\codesource\C#\bt_gui1_21520835\bt_gui1_21520835\obj\Debug\bt_gui1_21520835.Properties.Resources.resources
+D:\codesource\C#\bt_gui1_21520835\bt_gui1_21520835\obj\Debug\bt_gui1_21520835.csproj.GenerateResource.cache
+D:\codesource\C#\bt_gui1_21520835\bt_gui1_21520835\obj\Debug\bt_gui1_21520835.csproj.CoreCompileInputs.cache
+D:\codesource\C#\bt_gui1_21520835\bt_gui1_21520835\bin\Debug\bt_gui1_21520835.exe.config
+D:\codesource\C#\bt_gui1_21520835\bt_gui1_21520835\bin\Debug\bt_gui1_21520835.exe
+D:\codesource\C#\bt_gui1_21520835\bt_gui1_21520835\bin\Debug\bt_gui1_21520835.pdb
+D:\codesource\C#\bt_gui1_21520835\bt_gui1_21520835\obj\Debug\bt_gui1_21520835.exe
+D:\codesource\C#\bt_gui1_21520835\bt_gui1_21520835\obj\Debug\bt_gui1_21520835.pdb
